@@ -1,9 +1,9 @@
 {
-  "homepage": "https://deep-gajjar-1.github.io/number-converter",
+  "homepage": "https://deep-gajjar-1.github.io/number-converter-calculator",
   "name": "number-converter-calculator",
   "version": "0.1.0",
   "private": true,
-  
+
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
